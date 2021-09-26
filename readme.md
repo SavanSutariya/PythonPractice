@@ -5,3 +5,4 @@
 - [Nested Lists (Easy)](https://www.hackerrank.com/challenges/nested-list/problem)
 - [Finding the percentage (Easy)](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
 - [Lists (Easy)](https://www.hackerrank.com/challenges/python-lists/problem)
+- [Tuples (Easy)](https://www.hackerrank.com/challenges/python-tuples/problem)
