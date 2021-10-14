@@ -6,3 +6,5 @@
 - [Finding the percentage (Easy)](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
 - [Lists (Easy)](https://www.hackerrank.com/challenges/python-lists/problem)
 - [Tuples (Easy)](https://www.hackerrank.com/challenges/python-tuples/problem)
+- [Tuplesitertools.combinations_with_replacement() (Easy)](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problemm)
+- [String Split and Join (Easy)](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
