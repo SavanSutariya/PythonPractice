@@ -8,3 +8,4 @@
 - [Tuples (Easy)](https://www.hackerrank.com/challenges/python-tuples/problem)
 - [Tuplesitertools.combinations_with_replacement() (Easy)](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problemm)
 - [String Split and Join (Easy)](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
+- [sWAPcASE (Easy)](https://www.hackerrank.com/challenges/swap-case/problem)
